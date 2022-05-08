@@ -11,7 +11,7 @@ const  grey2 = Color.fromRGBO(255, 255, 255, 0.6);
 const  purpleColor = Color.fromRGBO(187, 134, 252, 1);
 const  purpleBackground = Color.fromRGBO(58, 53, 63, 1);
 
-
+//developer
 
 Widget cross(height,width) =>  Align(
   alignment: Alignment.topRight,
