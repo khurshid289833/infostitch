@@ -3,7 +3,6 @@ import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
 import 'screen/notification/notification.dart';
 
-
 String imageURL = "http://eqsxerusrangoon.com/cowin/public/";
 const bgColor = Color.fromRGBO(18, 18, 18, 0.75);
 const secondColor = Color.fromRGBO(47, 47, 47, 1);
