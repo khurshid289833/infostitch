@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "184986550774",
+    "project_id": "infostitch-user",
+    "storage_bucket": "infostitch-user.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184986550774:android:118ca3802e0dccc52147d7",
+        "android_client_info": {
+          "package_name": "com.infostitch.infostitch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184986550774-l4n6hcakiqfjkm22ndu24e2sb81g7krp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infostitch.infostitch",
+            "certificate_hash": "c2358c343108f70f5b6f7bc4485662ebdaf7d11b"
+          }
+        },
+        {
+          "client_id": "184986550774-12ad60r6820q9r8horvivk8sga23pc43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjxOfBaaNgdTQoJmsCM00gMUc9ys2kRD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184986550774-12ad60r6820q9r8horvivk8sga23pc43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
